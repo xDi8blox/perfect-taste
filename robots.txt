@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xdiablo.xyz/perfect-taste/sitemap.xml
